@@ -1,0 +1,27 @@
+{
+  "name": "react-mui",
+  "version": "0.0.1",
+  "description": "React's implementation of Google Material UI",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimonDegraeve/react-mui"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "material",
+    "material-ui",
+    "material",
+    "ui"
+  ],
+  "author": "Simon Degraeve <simon.degraeve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimonDegraeve/react-mui/issues"
+  },
+  "homepage": "https://github.com/SimonDegraeve/react-mui"
+}

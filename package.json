@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/SimonDegraeve/react-mui/issues"
   },
-  "homepage": "https://github.com/SimonDegraeve/react-mui"
+  "homepage": "https://github.com/SimonDegraeve/react-mui",
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "babel-eslint": "^3.1.15",
+    "babel-runtime": "^5.5.8",
+    "eslint": "^0.23.0",
+    "eslint-plugin-react": "^2.5.2"
+  }
 }
